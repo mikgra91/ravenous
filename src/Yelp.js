@@ -1,6 +1,6 @@
-const clientId = ''; // Insert client ID here.
-const secret = ''; // Insert secret here.
-let accessToken;
+const clientId = "DBJfWJiV3KSFFaqFCYeWDg";
+const secret = "74WMLP2ZfDosNOYsSy9zunB3JO5B93IMWfjpXQE1vKjWUyLwZFSXfDpohjVci6xo";
+let accessToken = "";
 
 const Yelp = {
   getAccessToken() {
